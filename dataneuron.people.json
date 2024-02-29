@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65df9788a07ced6ff40e8562"
+  },
+  "id": "hqTD0erq1-uws1__tMBh-",
+  "name": "Moiz",
+  "tech": "MERN",
+  "salary": 40000,
+  "experience": 1.8,
+  "age": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df981da07ced6ff40e8572"
+  },
+  "id": "n1e8T_WkQSP0Nu2gaVnB3",
+  "name": "Divya",
+  "tech": "MEAN",
+  "salary": 45000,
+  "experience": 2,
+  "age": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0146da07ced6ff40e85cf"
+  },
+  "id": "YdZM4WwRwXV6nVJhwlUmo",
+  "name": "Shariq",
+  "tech": "PHP",
+  "salary": 12,
+  "experience": 12,
+  "age": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e020bd26a31b2e4266af88"
+  },
+  "id": "Ef4_Os4vMD4_HPSsH9fIn",
+  "name": "Richa",
+  "tech": "Adobe XD",
+  "salary": 340000,
+  "experience": 4,
+  "age": 29,
+  "__v": 0
+}]
